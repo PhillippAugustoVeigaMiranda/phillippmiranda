@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Phillipp Miranda 👋</h1>
 
 <p align="center">
-  <em>Backend Developer & Data/AI Enthusiast • Construindo soluções que fazem sentido</em>
+  <em>Data/AI Enthusiast • Construindo soluções que fazem sentido</em>
 </p>
 
 <p align="center">
@@ -17,25 +17,16 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor com foco em **Backend** e **Dados/IA** — gosto de construir APIs robustas e explorar como modelos de dados e inteligência artificial podem resolver problemas reais.
+Sou entusiasta de **Dados e IA** — gosto de explorar como análise de dados e inteligência artificial podem resolver problemas reais.
 
-- 🔭 Atualmente construindo projetos de backend e pipelines de dados
-- 🌱 Estudando arquiteturas de APIs e aplicações de ML
-- 💬 Me pergunte sobre Python, APIs REST e análise de dados
+- 🔭 Atualmente construindo projetos de dados e IA
+- 🌱 Estudando pipelines de dados e aplicações de ML
+- 💬 Me pergunte sobre Python, análise de dados e Machine Learning
 - 📫 Contato: **phillippmiranda@gmail.com**
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-
-**Backend & APIs**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Dados & IA**
 
@@ -64,7 +55,7 @@ Sou desenvolvedor com foco em **Backend** e **Dados/IA** — gosto de construir 
 
 ## 🚀 Projetos em Destaque
 
-> Em breve — projetos de backend e dados/IA serão publicados aqui.
+> Em breve — projetos de dados e IA serão publicados aqui.
 
 ---
 
